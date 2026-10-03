@@ -46,6 +46,12 @@
 
 ## 🚀 Projects
 
+### [Civic Core](https://github.com/averytribbett/civic-core)
+
+`TypeScript` · `Express` · `Prisma` · `React`
+
+Customer service agents for municipalities. A monorepo with an Express + Prisma API, an embeddable chat widget, and a marketing site.
+
 ### 📈 Stock Trading Algorithm
 
 `TypeScript` · `Firebase Functions` · `Alpaca API` · `CNN Fear & Greed Index API`
@@ -54,14 +60,15 @@ An automated trading algorithm that rebalances a portfolio based on the Fear & G
 
 > 📊 Backtesting showed historical returns consistently outperforming the S&P 500 by **2–8% annually**.
 
-### Pokémon Card Tracker 
+### [Pokémon Card Tracker](https://github.com/jbrw1984/pokemon-card-tracker)
 
 `TypeScript` · `React` · `CSS` · `Bootstrap` · `Node.js` · `Express` · `Jest` · `MongoDB` · `Mongoose`
 
-A simple CRUD application to track and manage Pokémon cards. First full stack application project built by Kobe Yang and myself with the guidance of Reid Williams. 
+A simple CRUD application to track and manage Pokémon cards. First full stack application project built by Kobe Yang and myself with the guidance of Reid Williams.
 
 > 📊 90% test coverage on backend API
-> ![Pokémon Card Tracker](https://github.com/jbrw1984/pokemon-card-tracker)
+
+![Pokémon Card Tracker home page](https://raw.githubusercontent.com/jbrw1984/pokemon-card-tracker/master/images/webapp-homepage-screenshot.png)
 
 ---
 
