@@ -52,7 +52,7 @@
 
 A personal project: an AI assistant for city and county websites. It crawls a municipality’s public pages and PDFs, then answers resident questions in a chat widget that can live on that site. Replies cite the pages they came from, including deep links into long PDFs, and the widget picks up the city’s logo, name, and brand color.
 
-<video src="https://github.com/user-attachments/assets/cec8dd99-ffdc-4d2c-9a57-7d9841c2057b" width="720" controls playsinline/>
+<video src="https://github.com/user-attachments/assets/cec8dd99-ffdc-4d2c-9a57-7d9841c2057b" width="720" controls playsinline></video>
 
 ### 📈 Stock Trading Algorithm
 
