@@ -1,6 +1,4 @@
-# Hi there, I'm Avery Tribbett 👋
-
-**Software Engineer** · Building AI agents & products that solve real problems 🚀
+# Avery Tribbett
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/averytribbett)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:averytribbett@gmail.com)
